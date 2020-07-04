@@ -1,5 +1,6 @@
 package code;
 
+import code.subtractthesum.Kata;
 import org.junit.Test;
 
 import static org.hamcrest.core.Is.is;

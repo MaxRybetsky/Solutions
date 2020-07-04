@@ -1,4 +1,4 @@
-package code;
+package code.subtractthesum;
 
 public class Kata {
     public static String subtractSum (int n) {
