@@ -1,5 +1,6 @@
 package code.shiritori;
 
+import codewars.shiritori.Shiritori;
 import org.junit.Test;
 
 import java.util.ArrayList;

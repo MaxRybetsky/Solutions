@@ -1,5 +1,6 @@
 package code.stringrepeat;
 
+import codewars.stringrepeat.Solution;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

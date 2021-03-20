@@ -1,5 +1,6 @@
 package code.bitsreverse;
 
+import codewars.bitsreverse.BitsOfInteger;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
